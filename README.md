@@ -92,7 +92,7 @@ cd ML_PROJECT
 
 jupyter notebook CREDIT_CARD_FRAUD_DETECTION.ipynb
 
-✅ Results
+**✅ Results**
 
 The model successfully identifies fraudulent transactions
 
@@ -100,7 +100,7 @@ Works well on imbalanced data
 
 Suitable for real-world fraud detection use cases
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 Use advanced models like Random Forest or XGBoost
 
@@ -110,12 +110,12 @@ Deploy the model using Flask or Streamlit
 
 Enable real-time fraud prediction
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Sangeetha Barla
 Aspiring Software Engineer | Machine Learning Enthusiast
 
-📌 Conclusion
+**📌 Conclusion**
 
 This project demonstrates how Machine Learning can be effectively applied to detect financial fraud by combining data analysis, preprocessing, and classification techniques.
 
