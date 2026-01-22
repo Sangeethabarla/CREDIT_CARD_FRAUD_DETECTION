@@ -17,7 +17,7 @@ To build a machine learning model that can:
 ## Technologies Used
 
 - Python
-- Jupyter Notebook
+- Google Colab
 - NumPy
 - Pandas
 - Matplotlib
@@ -88,9 +88,10 @@ The dataset used in this project is publicly available on Kaggle:
    ```bash
    cd ML_PROJECT
 
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook CREDIT_CARD_FRAUD_DETECTION.ipynb
+3. Open the notebook in Google Colab:
+   - Visit https://colab.research.google.com
+   - Open the notebook from GitHub
+   - Select `CREDIT_CARD_FRAUD_DETECTION.ipynb`
 
 ## ✅ Results
 
