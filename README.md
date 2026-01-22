@@ -28,3 +28,95 @@ To build a machine learning model that can:
 
 ## Project Files
 
+ML_PROJECT/
+│
+├── CREDIT_CARD_FRAUD_DETECTION.ipynb
+└── README.md
+
+
+---
+
+## 📊 Dataset Description
+
+### Dataset Source
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+- The dataset contains anonymized credit card transactions
+- All features are numerical
+- Target column:
+  - `0` → Legitimate transaction
+  - `1` → Fraudulent transaction
+- The dataset is highly imbalanced
+
+---
+
+## 🔄 Steps Performed
+
+1. Imported required libraries
+2. Loaded and explored the dataset
+3. Data preprocessing and scaling
+4. Exploratory Data Analysis (EDA)
+5. Train-test split
+6. Machine Learning model training
+7. Model evaluation
+
+---
+
+## 🤖 Machine Learning Model
+
+- Classification-based approach
+- Performance evaluated using:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1-score
+  - Confusion Matrix
+
+> Recall is given higher importance because missing fraud cases can cause financial loss.
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sangeethabarla/ML_PROJECT.git
+2. Navigate to the project folder:
+
+cd ML_PROJECT
+
+3. Open the Jupyter Notebook:
+
+jupyter notebook CREDIT_CARD_FRAUD_DETECTION.ipynb
+
+✅ Results
+
+The model successfully identifies fraudulent transactions
+
+Works well on imbalanced data
+
+Suitable for real-world fraud detection use cases
+
+🚀 Future Enhancements
+
+Use advanced models like Random Forest or XGBoost
+
+Apply SMOTE for better imbalance handling
+
+Deploy the model using Flask or Streamlit
+
+Enable real-time fraud prediction
+
+👩‍💻 Author
+
+Sangeetha Barla
+Aspiring Software Engineer | Machine Learning Enthusiast
+
+📌 Conclusion
+
+This project demonstrates how Machine Learning can be effectively applied to detect financial fraud by combining data analysis, preprocessing, and classification techniques.
+
+
