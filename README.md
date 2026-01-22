@@ -4,6 +4,10 @@ This project detects fraudulent credit card transactions using Machine Learning.
 It solves a real-world problem where fraud cases are very rare compared to normal transactions.
 
 This notebook is designed to run on **Google Colab**.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+
+
+https://colab.research.google.com/drive/1tAl0hfmUJyDrwR4X883ouTNABMX3IKXa
 
 ---
 
